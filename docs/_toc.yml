@@ -1,0 +1,18 @@
+format: jb-book
+root: landing-page
+parts:
+- caption: Tools in the malaria vector software ecosystem
+  chapters:
+    - file: notebooks/software-in-the-ecosystem
+- caption: Bioinformatic Data Skills
+  chapters:
+    - file: notebooks/bioinformatic-data-skills
+- caption: Getting started
+  chapters:
+    - file: notebooks/navigating-the-site
+- caption: Learning outcomes for the course
+  chapters:
+    - file: notebooks/learning-outcomes
+- caption: RNA-Seq-Pop
+  chapters:
+    - file: notebooks/rna-seq-pop-data
