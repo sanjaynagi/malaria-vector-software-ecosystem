@@ -43,4 +43,4 @@ This training course is intended to be complementary to the PAMCA-MalariaGEN tra
 
 #### Bioinformatic data skills
 
-We recommend reading the first few chapters of the Bioinformatic data skills prior to beginning the course, more information is [here]() 
+We recommend reading the first few chapters of the Bioinformatic data skills prior to beginning the course, more information is [here](bioinformatics-data-skills.html) 
