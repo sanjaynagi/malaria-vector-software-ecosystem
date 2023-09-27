@@ -4,6 +4,7 @@
 title: KEMRI Genomics training
 author: Sanjay Curtis Nagi
 copyright: "2023"
+logo: mosquito_icon.png
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
