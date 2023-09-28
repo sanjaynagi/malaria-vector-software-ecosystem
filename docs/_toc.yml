@@ -7,6 +7,9 @@ parts:
 - caption: Tools in the malaria vector software ecosystem
   chapters:
     - file: notebooks/software-in-the-ecosystem
+- caption: Training plan
+  chapters:
+    - file: notebooks/training-plan
 - caption: RNA-Seq-Pop
   chapters:
     - file: notebooks/rna-seq-pop-data

@@ -21,7 +21,7 @@ Whilst working through the course, we would like participants to gain confidence
 - Understand the concepts behind WGS, RNA-Sequencing and Amplicon sequencing. 
 - Understand the utility of workflow managers (Snakemake, Nextflow) in bioinformatics. 
 - Feel equipped with tools to analyse multiple types of omics data - in particular RNA-Sequencing and Amplicon Sequencing. 
-- Enhance research into genomic surveillance and novel resistance variant discovery.. 
+- Enhance research into genomic surveillance and novel resistance variant discovery.
 
 
 # Intended audience
